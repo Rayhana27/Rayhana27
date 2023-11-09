@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Problem solving through C,Data Structures and Algorithms and Object-Oriented Programming in Java.
 
-- 💬 Ask me about **C,Data Structures and Algorithms and Object-Oriented Programming in Java.**
+- 💬 Ask me about C,Data Structures and Algorithms and Object-Oriented Programming in Java.
 
 - 📫 How to reach me **rayrahathil@gmail.com.**
 
