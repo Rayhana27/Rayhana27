@@ -1,7 +1,9 @@
 
-<h1 align="center">Heyy 👋, I'm Rayhana S</h1>
+<h1 align="center">Heyy , I'm Rayhana S</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhana27&label=Profile%20views&color=0e75b6&style=flat" alt="rayhana27" /> </p>
-- 🌱 I’m currently learning **Problem solving through C,Data Structures and Algorithms and Object-Oriented Programming in Java.**
+
+- 🌱 I’m currently learning Problem solving through C,Data Structures and Algorithms and Object-Oriented Programming in Java.
 
 - 💬 Ask me about **C,Data Structures and Algorithms and Object-Oriented Programming in Java.**
 
